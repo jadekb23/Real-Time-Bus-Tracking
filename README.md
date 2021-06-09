@@ -2,8 +2,9 @@
 
 # Description
 
+
 # Installation
-Be sure to download all files listed in the repo as part of one directory to be sure that the game will run correctly. From there, drag and drop the the index.html file into your browser and enjoy!
+Be sure to download all files listed in the repo. For this project you will have to generate your own MapBox key from MapBox.com and insert it in the empty quotation marks of the JavaScript file named 'mapanimation'. From there, drag and drop the the index.html file into your browser explore!
 
 # Usage 
  
