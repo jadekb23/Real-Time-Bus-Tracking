@@ -1,15 +1,16 @@
 # Real-Time-Bus-Tracking
 
 # Description
+This animation shows real time data for a bus route in Boston that travels between two local universities: MIT and Harvard. 
 
-
-# Installation
-Be sure to download all files listed in the repo. For this project you will have to generate your own MapBox key from MapBox.com and insert it in the empty quotation marks of the JavaScript file named 'mapanimation'. From there, drag and drop the the index.html file into your browser explore!
+# Installation 
+Be sure to download all files listed in the repo. For this project you will have to generate your own MapBox key from MapBox.com and insert it in the empty quotation marks of the JavaScript file named 'mapanimation.js'. From there, drag and drop the the index.html file into your browser to explore!
 
 # Usage 
- 
+ When you click on the button at the top of the page you will see map markers generated that show the geographical location of each of these stops along the route.  
  
 # Roadmap of Future Improvements 
+I would like to expand upon this project by potentially altering some of the syling features available through MapBox, or even changing the city to my home of New York and pulling bus data from the MTA.
 
 
 # License Information 
